@@ -19,6 +19,6 @@ _other_installs
 pip3 install -U pip
 git clone $REPO_URL Github_Repo
 cd Github_Repo
-pip3 install -U -r requirements.txt
+pip3 install pyrogram==1.4.16
 _externals
 python3 $PYTHON_FILE
