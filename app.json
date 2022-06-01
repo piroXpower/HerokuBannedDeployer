@@ -29,27 +29,26 @@
       "value": "None",
       "required": false
     }, 
-      "SESSION_NAME": {
-            "description": "fill with the pyrogram session string",
-            "required": true
-        },
-        "BOT_TOKEN": {
-            "description": "fill with your bot token from @BotFather",
-            "required": true
-        },
-        
-        "API_ID": {
-            "description": "your Api ID from my.telegram.org/apps",
-            "required": true
-        },
-        "API_HASH": {
-            "description": "your Api Hash from my.telegram.org/apps",
-            "required": true
-        },
-        "SUDO_USERS": {
-            "description": "fill with the user id who can access all function in your bot (separate with space).",
-            "required": true
-        }
+     "SESSION_NAME": {
+       "description": "fill with the pyrogram session string",
+       "required": true
+   },
+    "BOT_TOKEN": {
+      "description": "fill with your bot token from @BotFather",
+      "required": true
+   },
+    "API_ID": {
+      "description": "your Api ID from my.telegram.org/apps",
+      "required": true
+   },
+    "API_HASH": {
+      "description": "your Api Hash from my.telegram.org/apps",
+      "required": true
+   },
+    "SUDO_USERS": {
+      "description": "fill with the user id who can access all function in your bot (separate with space).",
+      "required": true
+   }, 
         
   },
   "addons": [
