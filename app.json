@@ -49,7 +49,7 @@
       "description": "fill with the user id who can access all function in your bot (separate with space).",
       "required": true
    }, 
-    "LOG_CHAT"
+    "LOG_CHAT": {
       "description": "create one group and add your assistant id and bot as admin in that group then extract group id and put here", 
       "required": true
    }, 
